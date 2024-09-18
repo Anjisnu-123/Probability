@@ -1,4 +1,4 @@
-Topic:
+<!-- Topic:
 Random variable
 
 Introduction to random var:
@@ -16,7 +16,7 @@ CDF for PMF: defination,math,key prop,calculating method,examples
 why do we need CDF?: describing dist behaviour, comparing random var, modeling and simulation,tail probabilities
 
 
-Introduction to moments: types of moments(Raw moments,central moments)
+ Introduction to moments: types of moments(Raw moments,central moments) 
 What is moment and wht do we need them?: formal defination of moments,mathematical formula ,need for moment : central tendency,dispersion or spread,asymmetry,peakness,why are moments important
 
 Note: Will check steps of EDA and non parametric distributon
@@ -40,12 +40,10 @@ CDF for PDF: defination,math,key prop
 
 Calculation of CDF
 why do we need CDF: understanding prob dist,calculating probabilities,describing dist characteristics,stat inference and analysis,facilitating theoritical dev, simulating and generating,comparing dist,practicak applications 
-moments of continuous random varriable,Raw moments and central moments,relation b/w raw and central moments (** To watch derivation at home **)
+moments of continuous random varriable,Raw moments and central moments,relation b/w raw and central moments (** To watch derivation at home **) -->
 
-To read----> (*Ogiv*)
-
-
-calculating specific moment : Assesing pattern and Charateristic: mean,varriance,skewness,kurtosis
+To read----> (*Ogiv*) 
+<!--calculating specific moment : Assesing pattern and Charateristic: mean,varriance,skewness,kurtosis 
 
 
 
@@ -60,7 +58,7 @@ HW: Momemnt generating function yk. calculate fourth and 3rd order central momen
 
 common distribution properties: support and parameterization:normal dist,exponential dist,statistical properties
 
-** NExt concept: convergence 
+NExt concept: convergence -->
 
 
 # Random Variables and Statistical Concepts
