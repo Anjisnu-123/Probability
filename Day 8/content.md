@@ -55,7 +55,7 @@ Characteristic functions(req for sampling dist): defination and basic properties
 
 Transformation of random variable: general transformation:transformation of random variable(ex: uniform to quadratic transformations),non monotonic transformations: jacobian method (ex: sum of two variables)
 
-HW: Momemnt generating function yk. calculate fourth and 3rd order central moment formula from mgt
+HW: Momemnt generating function yk. calculate fourth and 3rd order central moment formula from mgt(trick exponential series)
 
 
 common distribution properties: support and parameterization:normal dist,exponential dist,statistical properties
