@@ -224,14 +224,19 @@ In data science, recognizing whether events are dependent or independent is cruc
 ## Joint and Marginal Probabilities
 
 ### What Are Joint and Marginal Probabilities?
-- **Joint Probability:** The probability of two events \(A\) and \(B\) occurring simultaneously:
+- **Joint Probability:** The probability of two events \(A\) and \(B\) occurring simultaneously is denoted as:
   \[
   P(A \cap B)
   \]
-- **Marginal Probability:** The probability of an event irrespective of other events:
+
+- **Marginal Probability:** The probability of an event \(A\) irrespective of other events is calculated by summing the joint probabilities over all possible values of the other event \(B\):
   \[
   P(A) = \sum_{B} P(A \cap B)
   \]
+
+### Why Do We Need Joint and Marginal Probabilities?
+Understanding joint and marginal probabilities is essential for multi-variable analysis, allowing researchers to uncover relationships between variables and make informed decisions based on the behavior of multiple events.
+
 
 ### Why Do We Need Joint and Marginal Probabilities?
 Understanding joint and marginal probabilities is essential for multi-variable analysis, allowing researchers to uncover relationships between variables.
