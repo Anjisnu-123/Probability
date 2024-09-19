@@ -248,16 +248,16 @@ Here you can include practical implementations, such as:
 
 ### Simulating the Law of Large Numbers
 > python
-import numpy as np
-import matplotlib.pyplot as plt
-
-p = 0.5
-n_trials = 1000
-sample_means = [np.mean(np.random.binomial(1, p, n)) for n in range(1, n_trials + 1)]
-
-plt.plot(sample_means)
-plt.axhline(y=p, color='r', linestyle='--')
-plt.title('Law of Large Numbers')
-plt.xlabel('Number of Trials')
-plt.ylabel('Sample Mean')
-plt.show()
+> import numpy as np
+> import matplotlib.pyplot as plt
+>
+> p = 0.5
+> n_trials = 1000
+> sample_means = [np.mean(np.random.binomial(1, p, n)) for n in range(1, n_trials + 1)]
+>
+> plt.plot(sample_means)
+> plt.axhline(y=p, color='r', linestyle='--')
+> plt.title('Law of Large Numbers')
+> plt.xlabel('Number of Trials')
+> plt.ylabel('Sample Mean')
+> plt.show()
