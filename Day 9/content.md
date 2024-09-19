@@ -247,7 +247,7 @@ Goodness of fit tests assess how well a statistical model fits observed data.
 Here you can include practical implementations, such as:
 
 ### Simulating the Law of Large Numbers
-```python
+> python
 import numpy as np
 import matplotlib.pyplot as plt
 
