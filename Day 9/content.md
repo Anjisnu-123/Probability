@@ -20,7 +20,7 @@ Name:     |           Best Fit                     | Where use
 |poisson | Event rate modeling,traffic flow analysis | number of calls recieved per hour at a call center|
 |Hypergeometric dist | quality control,survey analysis | number of defective itemes found in a sample of 20 from a batch|
 |multinomial | document classification,multi class classifictaion | distributon of words accross topics in a text classification|
-|Discrete uniform: Random sampling,algo design: Randomly selectig card from a weel shuffled deck|
+|Discrete uniform | Random sampling,algo design: Randomly selectig card from a weel shuffled deck|
 |zipf's | Text analysis,city population modeling | frequency of words in a large corpus|
 
 
