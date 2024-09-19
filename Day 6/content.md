@@ -1,5 +1,6 @@
 <!-- Day 6 INTRODUCTION TO probability---------------------------------------------** To study** :- Hidden markov mode,markov model
-topics:----->>>---------sample space: example of sample space,what is event,what is sample space and why used?-------------------Event: definition and importance,whats likelihood,---------subset representation of event: Notation and representation,why subset rep is important----------------------------------------- -->
+topics:-----
+---------sample space: example of sample space,what is event,what is sample space and why used?-------------------Event: definition and importance,whats likelihood,---------subset representation of event: Notation and representation,why subset rep is important----------------------------------------- 
 <!-- Basic terminology and their definitions:-> outcome,trial,favourable outcome,understanding          ----------------------------------------------------- probability as a measure,relative freq interpretation of probab,mutually exclusive events,union and intersection of events,complement of an event
 probability axioms:-> non negativity,normalization/total probability,additivity,axiom 1:non negativity,---------------------------, axiom 2:Total probability of sample space, axiom 3: Additivity,additional consequence derived from axioms,importance of axioms and examples
 properties of probability:-> complement rule,union of events , conditional probability,probability--------------------------------- of impossible event,probability of entire sample space=1
