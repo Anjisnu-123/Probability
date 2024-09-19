@@ -220,7 +220,6 @@ The Central Limit Theorem (CLT) states that the distribution of the sample mean 
 | Discrete Uniform | Random sampling | Randomly selecting a card from a well-shuffled deck |
 | Zipf's | Text analysis | Frequency of words in a large corpus |
 
-[... Rest of the content remains the same ...]
 
 
 
