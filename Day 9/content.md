@@ -8,6 +8,7 @@ Discrete distribution:
 
 Bernouli,binomial,geometric,negative binomial,poisson,hypergeometric, multinomial ,discrete uniform,zipf's dist: for all defination and aplications. for every dist write PMF,CDF,mean
 var,skewness,kurtosis,special characteristics(if any),example
+To watch:-- Raymen zeta function to watch for zipf's denominatore harmonic mean
 
 
 
