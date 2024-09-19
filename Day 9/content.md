@@ -14,14 +14,14 @@ Application in datascience
 Name:     |           Best Fit                     | Where use
 |----------|----------------------------------------|-----------
 |Bernoulli | Binary classification, medical testing | modeling wheather spam or not |
-|Binomial:  A/B testing,quality contol: success rate of a marketing campaign with 100 lead and 30% conversion rate
-|Geometric: modeling time untill success,customer retention: No of website visit untill user make a purchase
-|Negative binomial: overdispersion in count , sales and demand forecasting: Number of customer visits need to achieve 5 succesful purchase
-|poisson: Event rate modeling,traffic flow analysis: number of calls recieved per hour at a call center
-|Hypergeometric dist: quality control,survey analysis: number of defective itemes found in a sample of 20 from a batch
-|multinomial: document classification,multi class classifictaion: distributon of words accross topics in a text classification
-|Discrete uniform: Random sampling,algo design: Randomly selectig card from a weel shuffled deck
-|zipf's: Text analysis,city population modeling: frequency of words in a large corpus
+|Binomial | A/B testing,quality contol | success rate of a marketing campaign with 100 lead and 30% conversion rate|
+|Geometric | modeling time untill success,customer retention | No of website visit untill user make a purchase|
+|Negative binomial | overdispersion in count , sales and demand forecasting | Number of customer visits need to achieve 5 succesful purchase|
+|poisson | Event rate modeling,traffic flow analysis | number of calls recieved per hour at a call center|
+|Hypergeometric dist | quality control,survey analysis | number of defective itemes found in a sample of 20 from a batch|
+|multinomial | document classification,multi class classifictaion | distributon of words accross topics in a text classification|
+|Discrete uniform: Random sampling,algo design: Randomly selectig card from a weel shuffled deck|
+|zipf's | Text analysis,city population modeling | frequency of words in a large corpus|
 
 
 
