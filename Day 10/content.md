@@ -4,7 +4,7 @@ Topic:
 all cont prob: uniform probability distribution,Normal or gausian distribution,exponential dist(coouring single event in two poisson process),gama dist(coouring multiple event in two poisson process),
 Beta dist(Major use in quality control),weibull dist,log normal dist,pareto dist,chi squared dist(degree of freedom),student's t distribution,F distribution 
 
-find all this info for all (all cont prob): Defination,parameters,pdf,cdf,mean,variance,skew,kurtosis,spcial characteristics,example
+find all this info for all (all cont prob): Defination,parameters,pdf,cdf,mean,variance,skew,kurtosis,spcial characteristics,example,fundamental of stat:
 
 Distribution                      applications          example
 F: used in compare varriance and in ANOVa  to test if multiple group means are equal: comparing the variance in test scores between different teaching 
