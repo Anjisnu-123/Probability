@@ -73,6 +73,15 @@ Skewness: Intro,formula for moment based skewness,other measures of skewness: Pe
 
 Kurtosis: Introduction,formula for moment based kurtosis,other measure of kurtosis:Excess kurtosis,sample based formula,interpretation of kurtosis: meso kurtic,lepto kurtick,platykurtic
 
-## bivariate analysis: most common pairs: Numerical vs numericsl,catag vs catag,catag vs numerical ,numerical vs time,catag vs time
+#### bivariate analysis: most common pairs: Numerical vs numericsl,catag vs catag,catag vs numerical ,numerical vs time,catag vs time
 
-Numerical vs numerical: Defination,why use scatter plot,how to interpret,where to apply:financial,health data,inference, Corelation anaysis: defination of corelation,Mathematical formula:pearson correlation coefficient(very detiled explaination with example),Spearmans rank correlation coefficient
+Numerical vs numerical: Defination,why use scatter plot,how to interpret,where to apply:financial,health data,inference, Corelation anaysis: defination of corelation,Mathematical formula:pearson correlation coefficient(very detiled explaination with example),Spearmans rank correlation coefficient,Kendall's tau correlation coefficient: Mathemtaical formula-> count concordant and discordant pair(calculation),kendals tau formula,Interpretation,example calculation
+
+Types of corelation: positive corelation,negative corr,no corr,linear corr,non linear corr,perfect corr,partial corr: charateristics,examples
+
+Usage of correlations: Predective analysis,quality control,finance and economics,social science,health science,markting research ,enviromental studies,education: usage interpretation,examples.
+
+Interepretation of corelation coefficients: +1,0 to +1,0,-1,-1 to 0,considerations in interpretation:(corelation vs causation,context matters,statistical significance,outliar impact)
+
+
+next topic: Catagorical vs numerical heatmap
