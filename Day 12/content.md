@@ -47,3 +47,11 @@ How we choose a right measure of central tendency
 ### Dispersion: introduction,defination,necessity,use of dispersion in ds and AI
 Types of measure in dispersion: Range,IQR,variance,std deviation,mean absolute deviation:def,formula,inference,use in data science,use in data science ,example
 
+| Measure             | When to Use                                         | Considerations                                                  |
+|---------------------|-----------------------------------------------------|----------------------------------------------------------------|
+| **Range**           | When you need a quick assessment of variability     | Sensitive to outliers                                          |
+| **Interquartile Range (IQR)** | When dealing with skewed data or outliers     | Provides a robust measure of the spread of the middle 50% of the data, minimizing outlier effects |
+| **Variance**        | For normally distributed data to understand overall variability | Sensitive to outliers; better for datasets without extreme values |
+| **Standard Deviation (SD)** | When you need a measure of spread in the same units as the data | Sensitive to outliers; ideal for normally distributed data     |
+| **Mean Absolute Deviation (MAD)** | When you want a robust measure of dispersion that reduces the effect of outliers | Less influenced by extreme values, providing a clear deviation from the mean |
+| **Coefficient of Variation (CV)** | When comparing the relative variability of datasets with different units or means | A unitless measure; useful for assessing risk in finance or comparing variability across different datasets |
