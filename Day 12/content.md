@@ -9,6 +9,7 @@ of freq dist: (Bar chart,histogram,pie chart,freq polygon,cumulative freq curve:
 Descriptive vs inferential vs predictive analytics:  compare b/w descriptive,inferential and predictive analytics
 
 | Aspect | Descriptive analytics | Inferential analysis | predictive analytics |
+--------------------------------------------------------------------------------
 | Purpose | Summarize and descrive past data | Make inference about population | predict future trends and behaviours |
 | Techniques | Mean median mode freq dist | hypothesis testing ,reg,confidence intervals | machine learning,reg,decision trees |
 | data used | entire dataset | sample of population | Historical data with a focus on trends and pattern |
