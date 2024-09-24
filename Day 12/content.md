@@ -45,5 +45,5 @@ How we choose a right measure of central tendency
 
 
 ### Dispersion: introduction,defination,necessity,use of dispersion in ds and AI
-> Types of measure in dispersion: Range,IQR,variance,std deviation,mean absolute deviation:def,formula,inference,use in data science,use in data science ,example
+Types of measure in dispersion: Range,IQR,variance,std deviation,mean absolute deviation:def,formula,inference,use in data science,use in data science ,example
 
