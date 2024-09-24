@@ -1,4 +1,4 @@
-## Topic
+<!-- ## Topic
 
 Introduction to freq distribution:Defination,frequency,distribution,freq dist of a variable: steps-> identify the var,determine the range,set intervals or catag,count freq,Graphical rep
 of freq dist: (Bar chart,histogram,pie chart,freq polygon,cumulative freq curve:ogive): how to plot,charataeristic,Examples
@@ -81,14 +81,10 @@ Types of corelation: positive corelation,negative corr,no corr,linear corr,non l
 
 Usage of correlations: Predective analysis,quality control,finance and economics,social science,health science,markting research ,enviromental studies,education: usage interpretation,examples.
 
+-->
 
 
 
-
-
-# Data Analysis and Visualization Concepts
-
-This repository covers various concepts related to data analysis and visualization, including:
 
 ## 1. Introduction to Frequency Distribution
 
@@ -234,18 +230,6 @@ This repository covers various concepts related to data analysis and visualizati
   - **Other Measures of Kurtosis**: Excess Kurtosis (subtracts 3 from the formula) and Sample-Based Kurtosis Formula
   - **Interpretation of Kurtosis**: Mesokurtic distribution (normal distribution) has a kurtosis of 3, leptokurtic distribution has a kurtosis greater than 3 (more peaked), and platykurtic distribution has a kurtosis less than 3 (flatter).
 
-## 6. Bivariate Analysis
-
-- **Most Common Pairs**:
-  - Numerical vs. Numerical
-  - Categorical vs. Categorical
-  - Categorical vs. Numerical
-  - Numerical vs. Time
-  - Categorical vs. Time
-- **Numerical vs. Numerical**:
-  - **Scatter Plot**: Visualizes the relationship between two numerical variables by plotting the data points on a coordinate plane.
-  - **Correlation Analysis**:
-    - **Pearson Correlation Coefficient**: Measures the linear relationship between two variables, ranging from -1 (perfect negative correlation) to +1 (perfect positive correlation).
 ## 6. Bivariate Analysis
 
 - **Most Common Pairs**:
