@@ -44,3 +44,6 @@ How we choose a right measure of central tendency
 | **Harmonic Mean**          | Gives greater weight to smaller values; based on all data points; always the lowest mean | Best for rates and ratios; effective when dealing with inversely proportional data | Sensitive to small values; cannot be used if any value is zero or negative | Rates and ratios; speed or efficiency metrics | Moderate            |
 
 
+### Dispersion: introduction,defination,necessity,use of dispersion in ds and AI
+> Types of measure in dispersion: Range,IQR,variance,std deviation,mean absolute deviation:def,formula,inference,use in data science,use in data science ,example
+
