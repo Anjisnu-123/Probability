@@ -22,7 +22,7 @@ When to use each type in data science: des, inf , pred
 
 Descriptive analytics: intro,example,Application in data science , key technique
 Inferential analytics: intro,defination, use,example,application in data science,Key technique: Hypothesis testing,reg testing,confidence intervals,sampling method
-*To read: sampling methdods*
+*To read: sampling methdods , shephard correction and derivation of kurtosis from there*
 
 Predictive analytics: Introduction, defination,use,example,key techniques
 
@@ -65,3 +65,14 @@ Types of measure in dispersion: Range,IQR,variance,std deviation,mean absolute d
 | **Standard Deviation (SD)** | Derived from variance; same units as data      | Provides context to variance; intuitive interpretation  | Sensitive to outliers; can misrepresent spread in skewed data | Data analysis; quality control              | High sensitivity        |
 | **Mean Absolute Deviation (MAD)** | Uses absolute differences; intuitive         | Less sensitive to outliers; easier to interpret       | May not capture variability as well as variance         | Robust analysis; general data description   | Moderate sensitivity     |
 | **Coefficient of Variation (CV)** | Standardized measure; expresses dispersion relative to the mean | Useful for comparing datasets with different units or means | Can be misleading if the mean is near zero             | Comparing variability across different datasets | Moderate sensitivity     |
+
+
+### Moments: defination,types:raw,central,Moments aboit an arbitary point
+
+Skewness: Intro,formula for moment based skewness,other measures of skewness: Pearsons 1st coefficient of skewness(mode based),pearsons second cofficient of skewness (Median based),interpretation of skewness
+
+Kurtosis: Introduction,formula for moment based kurtosis,other measure of kurtosis:Excess kurtosis,sample based formula,interpretation of kurtosis: meso kurtic,lepto kurtick,platykurtic
+
+## bivariate analysis: most common pairs: Numerical vs numericsl,catag vs catag,catag vs numerical ,numerical vs time,catag vs time
+
+Numerical vs numerical: Defination,why use scatter plot,how to interpret,where to apply:financial,health data,inference, Corelation anaysis: defination of corelation,Mathematical formula:pearson correlation coefficient(very detiled explaination with example),Spearmans rank correlation coefficient
