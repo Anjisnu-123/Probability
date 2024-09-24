@@ -8,13 +8,14 @@ of freq dist: (Bar chart,histogram,pie chart,freq polygon,cumulative freq curve:
 
 Descriptive vs inferential vs predictive analytics:  compare b/w descriptive,inferential and predictive analytics
 
-| Aspect | Descriptive analytics | Inferential analysis | predictive analytics |
---------------------------------------------------------------------------------
-| Purpose | Summarize and descrive past data | Make inference about population | predict future trends and behaviours |
-| Techniques | Mean median mode freq dist | hypothesis testing ,reg,confidence intervals | machine learning,reg,decision trees |
-| data used | entire dataset | sample of population | Historical data with a focus on trends and pattern |
-| application | initial data anlysis and reporting | generalizing data finding to a larger population | strategic decisoon and forecasting |
-| example |  sales report summarizing | A/B testing for marketing campeign | predicting customer churn using past behaviour
+| Aspect          | Descriptive Analytics                          | Inferential Analysis                  | Predictive Analytics                            |
+|-----------------|------------------------------------------------|---------------------------------------|------------------------------------------------|
+| Purpose         | Summarize and describe past data               | Make inferences about a population    | Predict future trends and behaviors            |
+| Techniques      | Mean, median, mode, frequency distribution      | Hypothesis testing, regression, confidence intervals | Machine learning, regression, decision trees   |
+| Data Used       | Entire dataset                                 | Sample of the population               | Historical data with a focus on trends and patterns |
+| Application      | Initial data analysis and reporting             | Generalizing findings to a larger population | Strategic decision-making and forecasting      |
+| Example         | Sales report summarizing                       | A/B testing for marketing campaigns    | Predicting customer churn using past behavior   |
+
 
 
 When to use each type in data science: des, inf , pred
