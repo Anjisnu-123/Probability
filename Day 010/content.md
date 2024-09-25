@@ -141,7 +141,7 @@ This document provides a comprehensive overview of various continuous probabilit
 - **Parameters**: \(\alpha\), \(\beta\)
 - **PDF**: 
   \[
-  f(x; \alpha, \beta) = \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)} \text{ for } 0 < x < 1
+  > f(x; \alpha, \beta) = \frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha, \beta)} \text{ for } 0 < x < 1
   \]
 - **CDF**: 
   \[
