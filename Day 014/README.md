@@ -12,3 +12,6 @@ Multidimensional scaling(MDS):overview,math behind MDS:distance matrix,config in
 Factor analysis: overview,math behind factor analysis: model representation,covariance matrix,estimation, Application in EDA
 
 canonical correlation analysis: overview,math behind CCA,linear combination,objective function,Eigen value problem, Application in EDA
+
+
+Day 15: Hypothesis testing and parameter estimation
