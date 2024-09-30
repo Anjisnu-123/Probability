@@ -55,9 +55,17 @@ Test stat general formula for ztest and ttest.
 - choose appropiate test and calculate test statistics
 - Make a decision
 
+**Parametric test :** Defination,Asssumptions of parametric tests:Normality,homogeneity of varriance,interval or ratio scale,example of parametric tests:Ztest,ttest:types(one sample ttest,independent two sample ttest,paired t test),example
 
+**Non-parametric test :** Defination,when to use non parametric test,examples of non parametric tests: mann whitney u test,wilcoxon signed-rank test.
 
-
+| Feature               | Parametric Tests                         | Non-Parametric Tests                   |
+|-----------------------|------------------------------------------|----------------------------------------|
+| **Assumptions**       | Assume normality and equal variances     | No specific distribution assumptions    |
+| **Data Type**         | Interval or ratio                        | Ordinal, nominal, or continuous        |
+| **Sample Size**       | Typically requires larger samples        | Can work with smaller samples          |
+| **Power**             | Generally more powerful when assumptions are met | Less powerful but more flexible        |
+| **Examples**          | Z-test, T-test, ANOVA                   | Mann-Whitney U, Wilcoxon, Kruskal-Wallis |
 
 
 
