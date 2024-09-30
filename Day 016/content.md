@@ -23,6 +23,9 @@ increased statistical error.
 **Good point estimate properties :** Unbiasness: Defination,explanation,example,importance, Consistency: Defination,explanation,example,importance,EFFICIENCY: Def,exp,var comparison,example,
 Sufficiency(additional proo): def ,math exp,example,importance
 
+
+**Corelation :coefficient** def,range formula,assumptions,example,spearman's rank: def,range formula,usecaase,corelation matrix, interpreting corelation values: strong corelation > 0.7, moderate corelation 0.3<|r|<=0.7,weak corelation |r|<=0,3
+
 **Confidence Intervals :** what is a confidence interval,component of confidence level: point estimate,margin of error,confidence level,common confidence level,trade-off,formula for population
 mean: for large sample sizes,for small sample sizes,math example,confidence interval formula for population proportion
 
@@ -64,13 +67,13 @@ Test stat general formula for ztest and ttest.
 | **Assumptions**       | Assume normality and equal variances     | No specific distribution assumptions    |
 | **Data Type**         | Interval or ratio                        | Ordinal, nominal, or continuous        |
 | **Sample Size**       | Typically requires larger samples        | Can work with smaller samples          |
-| **Power**             | Generally more powerful when assumptions are met | Less powerful but more flexible        |
+| **Power**             | Generally more powerful when assumptions are met | Less powerful but more flexible |
 | **Examples**          | Z-test, T-test, ANOVA                   | Mann-Whitney U, Wilcoxon, Kruskal-Wallis |
 
 
 
-
-
+**simple Linear regression :** Defination,equn,purpose,assumptions,example
+**Multiple Linear regression :** Defination,equn,purpose,assumptions,example
 
 
 
