@@ -75,9 +75,18 @@ Test stat general formula for ztest and ttest.
 **simple Linear regression :** Defination,equn,purpose,assumptions,example
 **Multiple Linear regression :** Defination,equn,purpose,assumptions,example
 
+**Oridanry least square(OLS) :** OBjecticve, what are residuals,why minimize squared residuals,Purpose of OLS
 
+Formula for estimating beta1 in simple linear regression: Formula for slope,steps to calculate beta1, interpretation of beta1
 
+**R.squared and its interpretation :** what is r squared defination,formula,interpretation,limitations of r squared
 
+**Adjusted R^2 :** what is adjusted r^2,why use adjusted R^2,interpretation,example
+
+**Hypothesis testing for regression coefficients :** objective,null hypothesis,alternate hypothesis,steps for testing,compatre with critical value,
+decision,example
+
+**Confidence intervals for regression parameters :** what is confidence intervals,interpreting confidence intervals,example
 
 
 
