@@ -32,8 +32,28 @@ formula
 **Z-Scores :** Used when population std deviation is known or sample size id large crtitical values for confidence level 90,95,99,**Tscore :** when use?,vary depends on deg of freedom,
 
 
+**Hypothesis testing :**
+Deifnation,Null hypothesis, alternative hypothesis
 
+**Level of significance :** Defination,mathematical rep,interpretation,Type 1 error,example.
 
+**Power or test :** defination,mathematical rep,type 2 error,example
+
+**Types of error :** Type 1 error,type 2 error: defination,consequence,significance level,power of test,example
+
+**Critical value and rejection region :**Critical value,mathematical calculation,rejection region.
+
+# **TEST STAT**
+what are test stat: defination,z-test,t-test:single sample ttest,two sample t-test,paired t-test|,chi squared test,ANOVA,
+
+Test stat general formula for ztest and ttest.
+**P-value and its interpretation :** defination,mathematical expression,decision rule,example
+
+**Steps in hypothesis testing :** 
+- define hypothesis
+- select significance levels
+- choose appropiate test and calculate test statistics
+- Make a decision
 
 
 
