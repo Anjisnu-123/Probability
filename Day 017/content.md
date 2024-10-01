@@ -36,10 +36,29 @@ Bootstrap confidence intervals : Defination,steps to calc bootstrap confidence i
 Types of  bootstrap : percentile bootstrap,basic bootstrap,bias correlated accelerated
 Examples of bootstrap
 Mathematical defination of bootstrap confidence intervals
-
-Bayesian Inference:
-
 *to study: GMM,PELT*
+confidence intervals:
+Bayesian Inference: (bayesian vs frequentist approach Basic comparison),frequentist approach ,bayesian approach
+Bayes theorem and role in bayesian inference,interpretation
+How bayesian inference updates the belief?: prior,likelihood,posterior,summary of bayesian inference
+Example of bayesian inference: Application in machine learning
+
+Application of bayesian inference in AI ML: Naive bayes classifier,bayesian neural networks,Bayesian optimization:(use,how it works,example)
+Practical example of hypothesis testing: testing in medical studies,Marketing A/B testing , onfidence intervals in survey rate,
+Aplication: model evalutaion and statistical tetsing : cross validation,significance testing in model comparison(ANOVA)
+
+Applications:A/B testing in model performance: purpose,steps in testing:Define hypothesis,splitting the data,measure performance,Test for
+significanc ,interpreting results.
+
+Application : USe of confidence intervals in prediction : purpose,theoritical bg,formula,application in ML,Example
+Why inferential stat matter in AI ML : Validate resullts,imporve models,manage uncertainity,Feature selection
+
+Key techniques in inferential stat: Hypothesis testing,confidence interval,regressionanalysis,anova:(purpose,key components,applications)
+Bridging the gap between stat and ML: stat foundation for ML,Model evaluation and uncertainity,data drive decisions
 
 
-confidence intervals: 
+
+
+
+
+
