@@ -391,18 +391,7 @@ Confidence intervals provide a range of plausible values for a population parame
 
 Feel free to contribute to this repository by submitting pull requests or opening issues for discussion. We welcome contributions that enhance the content, provide examples, or improve explanations.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped in creating and maintaining this resource.
-- Special thanks to the open-source community for providing tools and libraries that make statistical analysis in AI/ML possible.
-
-## References
-
-[Include relevant academic papers, books, and online resources here]
 
 ---
 
